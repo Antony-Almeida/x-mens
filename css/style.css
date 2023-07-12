@@ -15,7 +15,7 @@ body{
 
 body::before{ /*Pseudo-Elemento*/
     content: "";
-    background-image: url(./imagens/bg-desktop.jpg);
+    background-image: url(imagens/bg-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover; /*Cobrir*/
     background-position: center;
